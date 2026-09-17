@@ -6,6 +6,7 @@
 
 ---
 
-| 名称           | 链接（GitHub）                                                                           | 介绍（B站）            |
-| -------------- | ---------------------------------------------------------------------------------------- | ---------------------- |
-| 小黑搬瓜玫瑰塔 | [小黑搬瓜玫瑰塔v2.1](https://github.com/TanJikun/Litematica-schematic/releases/tag/v1.1) | v1.0(废稿)、v2.0与v2.1 |
+| 名称           | 链接（GitHub）                                                                                                                                                              | 介绍（B站）                                              |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| 小黑搬瓜玫瑰塔 | [小黑搬瓜玫瑰塔v2.1](https://github.com/TanJikun/Litematica-schematic/releases/tag/v1.1)                                                                                    | v1.0(废稿)、v2.0与v2.1                                   |
+| 树场合集       | [树场合集](https://github.com/TanJikun/Litematica-schematic/releases/tag/26.8.28)、[树场合集bug修复](https://github.com/TanJikun/Litematica-schematic/releases/tag/26.9.17) | [树场合集](https://www.bilibili.com/video/BV1vW4264EGJ/) |
